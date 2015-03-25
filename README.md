@@ -52,3 +52,8 @@ _Note that these are not reviewed, just listed here._
 
  * [pytest](http://pytest.org/latest/contents.html)
  * [tox](https://tox.readthedocs.org/en/latest/)
+
+
+ **And Now for Something Completely Different…**
+
+  * [The Weekly Ansible](http://theweeklyansible.tumblr.com/) – Ruminations on science fiction, horror, and fantasy from a progressive standpoint.
