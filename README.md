@@ -53,6 +53,7 @@ _Note that these are not reviewed, just listed here._
 
 **(Python) Testing**
 
+ * [jlaska/pytest-ansible](https://github.com/jlaska/pytest-ansible) – Several fixtures for running Ansible modules, or inspecting ``ansible_facts``.
  * [pytest](http://pytest.org/latest/contents.html)
  * [tox](https://tox.readthedocs.org/en/latest/)
 
