@@ -39,8 +39,8 @@ using standard Python tools (``pytest`` + ``tox``).
 
  * [t0mk/ansible-utils](https://github.com/t0mk/ansible-utils)
  * [ericlutley/vagrant-ansible](https://github.com/ericlutley/vagrant-ansible) – Code from following a [Vagrant/Ansible Tutorial](http://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html).
+ * [jriguera/ansible-role-pattern](https://github.com/jriguera/ansible-role-pattern)
  * [vim-ansible-yaml](http://vimawesome.com/plugin/vim-ansible-yaml)
-
 
 **Cookiecutters**
 
