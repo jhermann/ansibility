@@ -37,6 +37,7 @@ using standard Python tools (``pytest`` + ``tox``).
 
 **Related Projects**
 
+ * [ansible-lint](https://github.com/willthames/ansible-lint)
  * [t0mk/ansible-utils](https://github.com/t0mk/ansible-utils)
  * [ericlutley/vagrant-ansible](https://github.com/ericlutley/vagrant-ansible) – Code from following a [Vagrant/Ansible Tutorial](http://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html).
  * [jriguera/ansible-role-pattern](https://github.com/jriguera/ansible-role-pattern)
