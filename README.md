@@ -42,6 +42,7 @@ using standard Python tools (``pytest`` + ``tox``).
  * [ericlutley/vagrant-ansible](https://github.com/ericlutley/vagrant-ansible) – Code from following a [Vagrant/Ansible Tutorial](http://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html).
  * [jriguera/ansible-role-pattern](https://github.com/jriguera/ansible-role-pattern)
  * [vim-ansible-yaml](http://vimawesome.com/plugin/vim-ansible-yaml)
+ * [spencergibb/battleschool](https://github.com/spencergibb/battleschool) – Development environment provisioning using Ansible, similar to Boxen (Puppet) or Kitchenplan (Chef).
 
 **Cookiecutters**
 
