@@ -43,6 +43,8 @@ using standard Python tools (``pytest`` + ``tox``).
  * [jriguera/ansible-role-pattern](https://github.com/jriguera/ansible-role-pattern)
  * [vim-ansible-yaml](http://vimawesome.com/plugin/vim-ansible-yaml)
  * [spencergibb/battleschool](https://github.com/spencergibb/battleschool) – Development environment provisioning using Ansible, similar to Boxen (Puppet) or Kitchenplan (Chef).
+ * [superlumic](https://github.com/superlumic/superlumic) and [superlumic-config](https://github.com/superlumic/superlumic-config) – A light utility wrapper around Ansible to ease the automated install of OSX 10.10 and higher; successor to Kitchenplan.
+
 
 **Cookiecutters**
 
